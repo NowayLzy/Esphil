@@ -24,6 +24,12 @@
 
 有很多懒得介绍了，详细看代码，写了少量注释，代码写得很烂:poop:
 
+**需要使用以下命令烧入font.bin字库**
+
+```
+ python esptool.py --chip esp32c2 --port COM4 --baud 115200 write_flash -z 0x10000 d:\Esphil\font\myFont.bin
+```
+
 
 **Bug:** :warning:
 
@@ -31,5 +37,5 @@
 
 不想修了，欢迎提交Issue，谢谢
 
-喜欢就给个星吧:happy:
+~~喜欢就给个星吧~~:happy:
 
