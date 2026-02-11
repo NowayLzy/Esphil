@@ -27,7 +27,7 @@
 ### 演示
 
 <video width="640" height="360" controls>
-<source src="/img/IMG_1232.mp4" type="video/mp4">
+<source src="/img/IMG_1232.mp4">
 </video>
 
 **Bug:** :warning:
