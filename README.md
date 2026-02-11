@@ -12,9 +12,9 @@
 
 带有一个电源led，一个状态led，一个1.14寸的彩屏（这里有点大材小用了）
 
-eg:
+**eg:**
 
-![](\img\IMG_1241.JPG)
+![1](\img\IMG_1241.JPG)
 
 由上图可知，字库使用的是极具个性的草书字体
 
@@ -26,7 +26,9 @@ eg:
 
 ### 演示:vibration_mode:
 
-<video src="\img\IMG_1232.MP4"></video>
+<video width="640" height="360" controls>
+<source src="IMG_1232.mp4" type="video/mp4">
+</video>
 
 **Bug:** :warning:
 
