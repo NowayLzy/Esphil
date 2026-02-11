@@ -14,7 +14,7 @@
 
 **eg:**
 
-![1](\img\IMG_1241.JPG)
+![](/img/IMG_1241.JPG)
 
 由上图可知，字库使用的是极具个性的草书字体
 
@@ -24,10 +24,10 @@
 
 有很多懒得介绍了，详细看代码，写了少量注释，代码写得很烂:poop:
 
-### 演示:vibration_mode:
+### 演示
 
 <video width="640" height="360" controls>
-<source src="IMG_1232.mp4" type="video/mp4">
+<source src="/img/IMG_1232.mp4" type="video/mp4">
 </video>
 
 **Bug:** :warning:
